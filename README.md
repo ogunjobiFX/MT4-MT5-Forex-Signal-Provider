@@ -2,6 +2,8 @@
 
 # Demonstration 🎥
 
+YouTube Video: https://youtu.be/42Fus5Fvt8w
+
 # Pricing 💰
 
 This is an easy to set up expert advisor for your MetaTrader 4 or MetaTrader 5 platform. You are able to purchase either the expert advisor file or source code from either platform. In order to purchase the Forex Signal Provider, please reach out to me via email at ogunjobiforex@gmail.com inquiring about which item you want to purchase. The pricing for the offered packages are below:
