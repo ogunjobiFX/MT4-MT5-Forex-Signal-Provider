@@ -26,3 +26,5 @@ This is an easy to set up expert advisor for your MetaTrader 4 or MetaTrader 5 p
 7. In the MetaTrader navigator, refresh the advisors folder
 8. Drag the expert advisor onto any chart of a forex pair
 9. Enter your Discord Webhook found in your server into the **"Discord Webhook Entry"** variable
+
+**Note:** This expert advisor will only work when the MetaTrader platform you are using is active. This means if the platform is ever closed locally on your desktop, singals will not be distributed to your Discord server. If you would like this advisor to run continuously, you will need to deploy it using a VPS. There a several examples of how to do this online, and I intend on creating a YouTube video in the future showcasing how to do so.
